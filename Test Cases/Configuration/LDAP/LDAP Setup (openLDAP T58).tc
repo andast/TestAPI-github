@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LDAP Setup (openLDAP T58)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8f18328-d569-460f-928b-610c3564d0b9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://t53.qmaticcloud.com:8080'</initValue>
+      <name>orchestraHost</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://t53.qmaticcloud.com'</initValue>
+      <name>statHost</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'8080'</initValue>
+      <name>statPort</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Data Files connection</description>
+      <initValue>'jdbc:oracle:thin:@192.168.8.53:1521:orcl'</initValue>
+      <name>oracleConnectionURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Local, Staging, Production</description>
+      <initValue>'Local'</initValue>
+      <name>environment</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>superadmin/ulan</description>
+      <initValue>'Basic c3VwZXJhZG1pbjp1bGFu'</initValue>
+      <name>basicAuth</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>BRANCH</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>12e13d70-7776-4bfc-82bd-307278bb2679</dataFileGUID>
+   <dataSourceUrl>jdbc:oracle:thin:@192.168.8.52:1521:orcl</dataSourceUrl>
+   <driver>DBData</driver>
+   <isInternalPath>false</isInternalPath>
+   <password>cXBfY2VudHJhbA==</password>
+   <query>select name, id from qp_central.branch</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>qp_central</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

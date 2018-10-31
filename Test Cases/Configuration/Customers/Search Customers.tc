@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Customers</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80b732e2-e458-4e77-a149-d6d857745d15</testCaseGuid>
+   <variable>
+      <defaultValue>'Åstedt'</defaultValue>
+      <description></description>
+      <id>6c1dc0a2-a7c9-41f8-a4ee-f39c0bd35ebd</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+</TestCaseEntity>
